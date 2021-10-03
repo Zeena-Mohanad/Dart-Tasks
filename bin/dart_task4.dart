@@ -30,7 +30,7 @@ void main()
 {
   Restaurant R = Restaurant(
     name: "SajAlreef" ,
-    cuisine: "Cheese Burger" ,
+    cuisine: "Fast Food" ,
     ratings: [4,5,4,3,2,5]);
     print(R.getTotalRatings());
     print(R.averageRating());
